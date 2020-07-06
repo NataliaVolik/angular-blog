@@ -16,7 +16,6 @@ import { AuthInterceptor } from "./shared/auth.interceptor";
 
 
 registerLocaleData(ruLocale, 'ru')
-
 const INTERCEPTORS_PROVIDER: Provider = {
   provide: HTTP_INTERCEPTORS,
   multi: true,
