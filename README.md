@@ -1,10 +1,19 @@
 # Angular Blog
+npm start
+http://localhost:4200/admin 
+email: fox@mail.ru
+password: 123456
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
+## Technology
+Typescript
+ngx-quill
+Firebase
+Scss
+Html5
 
-## Development server
+## Demo
+[https://angular-blog-eae2a.web.app/](https://angular-blog-eae2a.web.app/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
 
